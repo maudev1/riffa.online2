@@ -1,0 +1,41 @@
+.logo {
+    font-family: 'Fredoka One', cursive;
+    color: #8338ec !important;
+    font-size: 8rem;
+}
+
+.button.is-sweet {
+    background-color: #8338ec !important;
+    color: white
+}
+
+.button.is-sweet:hover {}
+
+footer {
+    padding: 0px !important;
+    background-color: white !important;
+    margin-top: auto;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 100px !important;
+}
+
+.shadow {
+    padding: 0px !important;
+    margin-top: auto;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 50px !important;
+    background: rgb(129, 129, 129);
+    background: linear-gradient(0deg, rgba(116, 116, 116, 0.733) 0%, rgba(255, 255, 255, 0) 100%);
+}
+
+.form {
+    margin: 20px 0px;
+}
+
+.text-sweet {
+    color: #8338ec
+}
